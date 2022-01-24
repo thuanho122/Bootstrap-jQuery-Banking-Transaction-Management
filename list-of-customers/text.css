@@ -1,0 +1,29 @@
+.container{
+
+   border: 50px;
+}
+
+.row{
+    background-color: rgb(39,156,228);
+    padding: 16px;
+    margin:0px;
+}
+
+.col-sm-7 {
+    float: right;
+    padding: 10px;
+    
+}
+.col-sm-7 a{
+    margin-right: 15px;
+    float: right;
+}
+
+thead{
+    background-color: rgb(76,175,79);
+    color: white;
+}
+
+h1{
+    color: white;
+}
